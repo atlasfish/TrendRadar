@@ -1,49 +1,55 @@
-胖东来
-于东来
+任天堂
+switch
+ns
+nintendo
 
-DeepSeek
-梁文锋
+合肥工业大学
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+索尼
+sony
+PS5
 
-比亚迪
-王传福
+steam
+xbox
 
-大疆
-DJI
+万代
+Bandai
 
-宇树
-王兴兴
+寿屋
+KOTOBUKIYA
 
-智元
-灵犀
-稚晖君
-彭志辉
+游戏
+galgame
 
-黑神话
-冯骥
+机娘
+手办
+高达
+Gundam
 
-影之刃零
-梁其伟
+GSC
+良笑社
 
-哪吒
-饺子
-杨宇
-!车
+宝可梦
+Pokemon
+神奇宝贝
+
+!哪吒
+!饺子
+!杨宇
+
+北仑
+
+奥斯卡
+诺贝尔
++奖
+
 !餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
+均胜电子
+均联智行
+Joynext
 
 京东
-刘强东
 
 字节
 bytedance
@@ -73,6 +79,9 @@ sora
 claude
 Anthropic
 
+android
+安卓
+
 iphone
 ipad
 mac
@@ -89,19 +98,13 @@ ai
 国产
 中国
 
+恐怖电影
+
 美国
 日本
 韩国
 
 芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
 
 新质生产力
 
@@ -111,3 +114,11 @@ ai
 宇宙
 飞船
 航空
+
+!胖东来
+!于东来
+
+DeepSeek
+
+小米
+xiaomi
